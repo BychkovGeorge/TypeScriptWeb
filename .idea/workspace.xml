@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a9199e27-0a03-487b-b253-fb83e5aa6676" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.ab6a468aeecafb7b89f8f429a72c685b7548d79e-audit.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/articles/articles.controller.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/articles/articles.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/articles/articles.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/articles/entities/articles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/auth/auth.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/users/entities/users.entity.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/users/users-item.dto.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/users/users.controller.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/users/users.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/users/users.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1al7HZHhYELk2IjKykSUNtFYWRi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RunManager" selected="Docker.docker-compose.yaml: Compose Deployment">
+    <configuration name="docker-compose.yaml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.yaml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yaml.mephi-postgres: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="mephi-postgres" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yaml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.docker-compose.yaml: Compose Deployment" />
+        <item itemvalue="Docker.docker-compose.yaml.mephi-postgres: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9199e27-0a03-487b-b253-fb83e5aa6676" name="Default Changelist" comment="" />
+      <created>1587298240054</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587298240054</updated>
+      <workItem from="1587298245064" duration="5263000" />
+      <workItem from="1587460205808" duration="6830000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="445" y="239" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587466725404">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="445" y="239" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.812@0.23.1440.812" timestamp="1587466725404" />
+    <state x="533" y="152" key="#com.intellij.ide.util.MemberChooser" timestamp="1587466578275">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="533" y="152" key="#com.intellij.ide.util.MemberChooser/0.23.1440.812@0.23.1440.812" timestamp="1587466578275" />
+    <state x="415" y="155" key="#docker-compose.yaml.mephi-postgres:_Compose_Deployment" timestamp="1587304298553">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="415" y="155" key="#docker-compose.yaml.mephi-postgres:_Compose_Deployment/0.23.1440.814@0.23.1440.814" timestamp="1587304298553" />
+    <state x="415" y="155" key="#docker-compose.yaml:_Compose_Deployment" timestamp="1587304302463">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="415" y="155" key="#docker-compose.yaml:_Compose_Deployment/0.23.1440.814@0.23.1440.814" timestamp="1587304302463" />
+  </component>
+</project>
