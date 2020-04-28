@@ -24,6 +24,7 @@
     "cache-manager": "^2.9.1",
     "class-transformer": "^0.2.3",
     "class-validator": "^0.9.1",
+    "crypto": "^1.0.1",
     "docker": "^1.0.0",
     "docker-compose": "^0.23.3",
     "json-stringify-safe": "^5.0.1",
