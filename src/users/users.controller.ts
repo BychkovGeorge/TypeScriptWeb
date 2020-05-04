@@ -1,9 +1,7 @@
-import {Controller, Delete, Get, Put, Query} from '@nestjs/common';
-import {UsersItemDto} from '@app/users/users-item.dto';
+import {Controller, Delete, Get, Put} from '@nestjs/common';
 import {UsersService} from '@app/users/users.service';
 import {Users} from '@app/users/entities/users.entity';
 
-// @ts-ignore
 @Controller('users')
 export class UsersController {
 

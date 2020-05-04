@@ -27,6 +27,7 @@
     "crypto": "^1.0.1",
     "docker": "^1.0.0",
     "docker-compose": "^0.23.3",
+    "helmet": "^3.22.0",
     "json-stringify-safe": "^5.0.1",
     "minio": "^7.0.12",
     "moment": "^2.24.0",

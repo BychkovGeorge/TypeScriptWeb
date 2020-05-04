@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9199e27-0a03-487b-b253-fb83e5aa6676" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/auth/auth.controller.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/auth/auth.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.yarn-integrity" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.yarn-integrity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/auth/auth.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/auth/auth.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/articles/articles.controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/articles/articles.controller.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/articles/articles.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/articles/articles.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/articles/entities/articles.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/articles/entities/articles.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/users/entities/users.entity.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/users/entities/users.entity.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/users/users.controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/users/users.controller.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/users/users.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/users/users.service.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
@@ -87,7 +86,8 @@
       <workItem from="1587460205808" duration="6830000" />
       <workItem from="1587467857634" duration="2652000" />
       <workItem from="1587663550342" duration="39000" />
-      <workItem from="1588064230972" duration="3843000" />
+      <workItem from="1588064230972" duration="3949000" />
+      <workItem from="1588597477562" duration="3270000" />
     </task>
     <servers />
   </component>

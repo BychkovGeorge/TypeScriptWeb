@@ -2,6 +2,7 @@ import {Injectable} from '@nestjs/common';
 import {InjectRepository} from '@nestjs/typeorm';
 import {Repository} from 'typeorm';
 import {Users} from '@app/users/entities/users.entity';
+import {createHash} from 'crypto';
 
 @Injectable()
 export class UsersService {
@@ -35,5 +36,16 @@ export class UsersService {
   public async destroyUser(userLogin: string): Promise<void> {
     const user: Users =  await this.getUserByLogin(userLogin);
     await this.UsersRepository.remove(user);
+  }
+
+  public computeSHA256(lines: string): string {
+    const hash = createHash('sha256');
+    // tslint:disable-next-line:prefer-for-of
+    for (let i = 0; i < lines.length; i++) {
+      const line = lines[i].trim(); // remove leading/trailing whitespace
+      if (line === '') { continue; } // skip empty lines
+      hash.write(line); // write a single line to the buffer
+    }
+    return hash.digest('base64'); // returns hash as string
   }
 }
