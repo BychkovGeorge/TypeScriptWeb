@@ -10,7 +10,7 @@ export class Users {
 
   constructor(login: string, password: string) {
       this.login = login;
-      this.password = this.usersService.computeSHA256(password);
+      this.password = password;
   }
 
   @PrimaryGeneratedColumn('uuid')

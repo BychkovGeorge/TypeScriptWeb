@@ -2,15 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9199e27-0a03-487b-b253-fb83e5aa6676" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.ab6a468aeecafb7b89f8f429a72c685b7548d79e-audit.json" beforeDir="false" afterPath="$PROJECT_DIR$/.ab6a468aeecafb7b89f8f429a72c685b7548d79e-audit.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.yarn-integrity" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.yarn-integrity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/articles/articles.controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/articles/articles.controller.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/articles/articles.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/articles/articles.service.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/articles/entities/articles.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/articles/entities/articles.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cc-2020-04-19-15.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-data/minio/data/.minio.sys/background-ops/data-usage" beforeDir="false" afterPath="$PROJECT_DIR$/docker-data/minio/data/.minio.sys/background-ops/data-usage" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-data/minio/data/.minio.sys/buckets/.minio.sys/background-ops/data-usage/fs.json" beforeDir="false" afterPath="$PROJECT_DIR$/docker-data/minio/data/.minio.sys/buckets/.minio.sys/background-ops/data-usage/fs.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-data/postgres/data/base/16385/2608" beforeDir="false" afterPath="$PROJECT_DIR$/docker-data/postgres/data/base/16385/2608" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-data/postgres/data/base/16385/2609" beforeDir="false" afterPath="$PROJECT_DIR$/docker-data/postgres/data/base/16385/2609" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-data/postgres/data/base/16385/2609_fsm" beforeDir="false" afterPath="$PROJECT_DIR$/docker-data/postgres/data/base/16385/2609_fsm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-data/postgres/data/base/16385/2673" beforeDir="false" afterPath="$PROJECT_DIR$/docker-data/postgres/data/base/16385/2673" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-data/postgres/data/base/16385/2674" beforeDir="false" afterPath="$PROJECT_DIR$/docker-data/postgres/data/base/16385/2674" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-data/postgres/data/base/16385/2675" beforeDir="false" afterPath="$PROJECT_DIR$/docker-data/postgres/data/base/16385/2675" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-data/postgres/data/base/16385/3079" beforeDir="false" afterPath="$PROJECT_DIR$/docker-data/postgres/data/base/16385/3079" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-data/postgres/data/base/16385/3080" beforeDir="false" afterPath="$PROJECT_DIR$/docker-data/postgres/data/base/16385/3080" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-data/postgres/data/base/16385/3081" beforeDir="false" afterPath="$PROJECT_DIR$/docker-data/postgres/data/base/16385/3081" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-data/postgres/data/base/16385/pg_internal.init" beforeDir="false" afterPath="$PROJECT_DIR$/docker-data/postgres/data/base/16385/pg_internal.init" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-data/postgres/data/global/1214" beforeDir="false" afterPath="$PROJECT_DIR$/docker-data/postgres/data/global/1214" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-data/postgres/data/global/1232" beforeDir="false" afterPath="$PROJECT_DIR$/docker-data/postgres/data/global/1232" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-data/postgres/data/global/1233" beforeDir="false" afterPath="$PROJECT_DIR$/docker-data/postgres/data/global/1233" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-data/postgres/data/global/pg_control" beforeDir="false" afterPath="$PROJECT_DIR$/docker-data/postgres/data/global/pg_control" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-data/postgres/data/global/pg_internal.init" beforeDir="false" afterPath="$PROJECT_DIR$/docker-data/postgres/data/global/pg_internal.init" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-data/postgres/data/pg_stat_tmp/db_0.stat" beforeDir="false" afterPath="$PROJECT_DIR$/docker-data/postgres/data/pg_stat_tmp/db_0.stat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-data/postgres/data/pg_stat_tmp/db_16385.stat" beforeDir="false" afterPath="$PROJECT_DIR$/docker-data/postgres/data/pg_stat_tmp/db_16385.stat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-data/postgres/data/pg_stat_tmp/global.stat" beforeDir="false" afterPath="$PROJECT_DIR$/docker-data/postgres/data/pg_stat_tmp/global.stat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-data/postgres/data/pg_wal/000000010000000000000001" beforeDir="false" afterPath="$PROJECT_DIR$/docker-data/postgres/data/pg_wal/000000010000000000000001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-data/postgres/data/pg_xact/0000" beforeDir="false" afterPath="$PROJECT_DIR$/docker-data/postgres/data/pg_xact/0000" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-data/postgres/data/postmaster.pid" beforeDir="false" afterPath="$PROJECT_DIR$/docker-data/postgres/data/postmaster.pid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/auth/auth.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/auth/auth.service.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/users/entities/users.entity.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/users/entities/users.entity.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/users/users.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/users/users.service.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/log/.9f3d0491b82fa235f5d6b705c116bac6dbaabb87-audit.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/var/log/.9f3d0491b82fa235f5d6b705c116bac6dbaabb87-audit.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/log/cc-2020-04-19-19.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/log/cc-2020-04-21-12.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/log/cc-2020-04-21-13.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/log/cc-2020-04-21-14.log" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +111,9 @@
       <workItem from="1587467857634" duration="2652000" />
       <workItem from="1587663550342" duration="39000" />
       <workItem from="1588064230972" duration="3949000" />
-      <workItem from="1588597477562" duration="3270000" />
+      <workItem from="1588597477562" duration="4553000" />
+      <workItem from="1589909512341" duration="1996000" />
+      <workItem from="1590427080362" duration="441000" />
     </task>
     <servers />
   </component>
