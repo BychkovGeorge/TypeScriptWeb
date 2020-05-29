@@ -9,7 +9,7 @@ export class AuthController {
   ) {
   }
 
-  @Get()
+  @Get('authFunc')
   public authentication(log: string, pass: string): Promise<boolean> {
     return this.authService.validateUser(log, pass);
   }

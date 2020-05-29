@@ -9,27 +9,27 @@ export class UsersController {
     private readonly usersService: UsersService,
   ) {}
 
-  @Get()
+  @Get('newUser')
   public async logUp(login: string, password: string): Promise<Users> {
     return await this.usersService.createUser(login, password);
   }
 
-  @Get()
+  @Get('getAll')
   public async getAll(): Promise<Users[]> {
     return await this.usersService.getAllUsers();
   }
 
-  @Get()
+  @Get('getOne')
   public async getOne(userLogin: string): Promise<Users> {
     return await this.usersService.getUserByLogin(userLogin);
   }
 
-  @Put()
+  @Put('update')
   public async update(newLogin: string, oldLogin: string): Promise<Users> {
     return await this.usersService.updateUser(newLogin, oldLogin);
   }
 
-  @Delete()
+  @Delete('destroyUser')
   public async deleteUser(userLogin: string): Promise<void> {
     await this.usersService.destroyUser(userLogin);
   }

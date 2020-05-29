@@ -9,32 +9,32 @@ export class ArticlesController {
     private readonly articleService: ArticlesService,
   ) {}
 
-  @Get()
+  @Get('newArticle')
   public async logUpArticle(title: string, body: string, author: string): Promise<Articles> {
     return await this.articleService.createArticle(title, body, author);
   }
 
-  @Get()
+  @Get('getAll')
   public async getAllArticles(): Promise<Articles[]> {
     return await this.articleService.receiveAllArticles();
   }
 
-  @Get()
+  @Get('oneByTitle')
   public async getOneByTitle(articleTitle: string): Promise<Articles> {
     return await this.articleService.getArticleByTitle(articleTitle);
   }
 
-  @Get()
+  @Get('oneByAuthor')
   public async getOneByAuthor(articleAuthor: string): Promise<Articles> {
     return await this.articleService.getArticleByAuthor(articleAuthor);
   }
 
-  @Put()
+  @Put('update')
   public async updateArticle(newTitle: string, oldTitle: string, newBody: string): Promise<Articles> {
     return await this.articleService.updateArticle(newTitle, oldTitle, newBody);
   }
 
-  @Delete()
+  @Delete('destroy')
   public async deleteArticle(articleTitle: string): Promise<void> {
     await this.articleService.destroyArticle(articleTitle);
   }
